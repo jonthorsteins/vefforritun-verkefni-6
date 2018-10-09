@@ -130,7 +130,6 @@ h1 {
 
   margin-bottom: 10px;
   padding: 10px;
-  /*padding-bottom: 20px; /* AAAAAAAAuka */
   width: 100%;
   max-width: 470px;
   max-height: 300px;
@@ -147,6 +146,7 @@ h1 {
       border: none;
       border-bottom: 2px solid #aaa;
       border-radius: 0px;
+      padding: 0px;
       padding-bottom: 20px;
 
       max-width: 100%;
@@ -217,15 +217,3 @@ h1 {
 }
 
 
-
-/* TODO útfæra grid fyrir cards */
-
-/*
-  .card kemur óbreytt úr sýnilausn á verkefni 5 fyrir utan responsive stíla og
-  að það fær `height: 100%;`
-  Sýnilausn verður gefin út við lok dags miðvikudaginn 3. okt
-*/
-
-/* TODO .card stílar úr v5 (eða sýnilausn...) */
-
-/* TODO responsive stílar fyrir .card */
